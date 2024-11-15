@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "NanumSquareNeo";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(NanumSquareNeo-Light.woff2) format("woff2");
+}

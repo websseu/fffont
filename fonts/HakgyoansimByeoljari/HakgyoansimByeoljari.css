@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "HakgyoansimByeoljari";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(HakgyoansimByeoljari-Light.woff2) format("woff2");
+}
+@font-face {
+  font-family: "HakgyoansimByeoljari";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(HakgyoansimByeoljari-Bold.woff2) format("woff2");
+}

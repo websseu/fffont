@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "NanumGothicEco";
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(NanumGothicEco-ExtraBold.woff2) format("woff2");
+}

@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "HakgyoansimDoldam";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(HakgyoansimDoldam-Light.woff2) format("woff2");
+}
+@font-face {
+  font-family: "HakgyoansimDoldam";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(HakgyoansimDoldam-Medium.woff2) format("woff2");
+}
+@font-face {
+  font-family: "HakgyoansimDoldam";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(HakgyoansimDoldam-Bold.woff2) format("woff2");
+}

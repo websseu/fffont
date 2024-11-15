@@ -1,0 +1,1388 @@
+[
+  {
+    "company": "네이버",
+    "title": {
+      "kr": "나눔고딕",
+      "en": "NanumGothic"
+    },
+    "license": "Free",
+    "tags": ["네이버"],
+    "weight": [300, 400, 700, 800],
+    "download": "https://hangeul.naver.com/font",
+    "description": "나눔고딕은 문서의 본문에도 잘 쓸 수 있는 고딕 글꼴입니다. 글자 끝의 날카로운 부분을 둥글게 처리해 친근하고 부드러운 느낌입니다",
+    "url": " https://websseu.github.io/fontkor/fonts/NanumGothic/NanumGothic.css",
+    "image": ["NanumGothic_001_01"]
+  },
+  {
+    "company": "네이버",
+    "title": {
+      "kr": "나눔고딕에코",
+      "en": "NanumGothicEco"
+    },
+    "license": "Free",
+    "tags": ["네이버"],
+    "weight": [400, 700, 800],
+    "download": "https://hangeul.naver.com/font",
+    "description": "나눔고딕과 나눔명조에 구멍을 뚫어, 잉크를 절약할 수 있도록 만든 글꼴입니다. 문서를 출력할 때 미세한 구멍 안으로 잉크가 번져 빈곳이 채워집니다. 이 방식으로 최대 35%까지 잉크를 절약할 수 있습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/NanumGothicEco/NanumGothicEco.css",
+    "image": ["NanumGothicEco_001_01"]
+  },
+  {
+    "company": "네이버",
+    "title": {
+      "kr": "나눔명조",
+      "en": "NanumMyeongjo"
+    },
+    "license": "Free",
+    "tags": ["네이버"],
+    "weight": [400, 700, 800],
+    "download": "https://hangeul.naver.com/font",
+    "description": "나눔명조는 ‘명조체’를 바탕으로 한 글꼴입니다. 붓글씨의 힘이 느껴지도록 하되, 제도한 것처럼 글자 끝 부분을 과감히 잘라냈습니다. 직선적으로 힘있게 표현되어 현대적이고 명쾌한 느낌입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/NanumMyeongjo/NanumMyeongjo.css",
+    "image": ["NanumMyeongjo_001_01"]
+  },
+  {
+    "company": "네이버",
+    "title": {
+      "kr": "나눔명조에코",
+      "en": "NanumMyeongjoEco"
+    },
+    "license": "Free",
+    "tags": ["네이버"],
+    "weight": [400, 700, 800],
+    "download": "https://hangeul.naver.com/font",
+    "description": "나눔고딕과 나눔명조에 구멍을 뚫어, 잉크를 절약할 수 있도록 만든 글꼴입니다. 문서를 출력할 때 미세한 구멍 안으로 잉크가 번져 빈곳이 채워집니다. 이 방식으로 최대 35%까지 잉크를 절약할 수 있습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/NanumMyeongjoEco/NanumMyeongjoEco.css",
+    "image": ["NanumMyeongjoEco_001_01"]
+  },
+  {
+    "company": "네이버",
+    "title": {
+      "kr": "나눔명조옛한글",
+      "en": "NanumMyeongjoYetHangul"
+    },
+    "license": "Free",
+    "tags": ["네이버"],
+    "weight": [400],
+    "download": "https://hangeul.naver.com/font",
+    "description": "지금 많이 쓰이지는 않지만 기록하고 보존해야 하는 문화 유산이 있습니다. 옛한글도 그러합니다. 네이버는 후손들에게 전하고 싶은 한글의 원형을 디지털로 기록하고 나누고자 합니다",
+    "url": "https://websseu.github.io/fontkor/fonts/NanumMyeongjoYetHangul/NanumMyeongjoYetHangul.css",
+    "image": ["NanumMyeongjoYetHangul_001_01"]
+  },
+  {
+    "company": "네이버",
+    "title": {
+      "kr": "나눔바른고딕",
+      "en": "NanumBarunGothic"
+    },
+    "license": "Free",
+    "tags": ["네이버"],
+    "weight": [200, 300, 400, 700],
+    "download": "https://hangeul.naver.com/font",
+    "description": "모바일에 최적화된 정통 고딕 글꼴입니다. 글꼴이 가장 깨끗해 보이는 두께와 자간을 연구해 또렷하게 보이도록 만들었습니다. 돌출 형태나 곡선이 없어 작은 화면에서도 잘 읽힙니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/NanumBarunGothic/NanumBarunGothic.css",
+    "image": ["NanumBarunGothic_001_01"]
+  },
+  {
+    "company": "네이버",
+    "title": {
+      "kr": "나눔바른고딕옛한글",
+      "en": "NanumBarunGothicYetHangul"
+    },
+    "license": "Free",
+    "tags": ["네이버"],
+    "weight": [400],
+    "download": "https://hangeul.naver.com/font",
+    "description": "지금 많이 쓰이지는 않지만 기록하고 보존해야 하는 문화 유산이 있습니다. 옛한글도 그러합니다. 네이버는 후손들에게 전하고 싶은 한글의 원형을 디지털로 기록하고 나누고자 합니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/NanumBarunGothicYetHangul/NanumBarunGothicYetHangul.css",
+    "image": ["NanumBarunGothicYetHangul_001_01"]
+  },
+  {
+    "company": "네이버",
+    "title": {
+      "kr": "나눔바른펜",
+      "en": "NanumBarunpen"
+    },
+    "license": "Free",
+    "tags": ["네이버"],
+    "weight": [400, 700],
+    "download": "https://hangeul.naver.com/font",
+    "description": "정직하게 꾹꾹 눌러 쓴 듯한 손글씨체입니다. 고딕체를 바탕으로 하여 담백하고 절제된 느낌입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/NanumBarunpen/NanumBarunpen.css",
+    "image": ["NanumBarunpen_001_01"]
+  },
+  {
+    "company": "네이버",
+    "title": {
+      "kr": "나눔손글씨붓",
+      "en": "NanumBrush"
+    },
+    "license": "Free",
+    "tags": ["네이버"],
+    "weight": [400],
+    "download": "https://hangeul.naver.com/font",
+    "description": "나눔손글씨 펜체는 깔끔한 선 처리와 생동감이 돋보입니다. 반면 나눔손글씨 붓체는 꾸미지 않은 편안함과 리듬감이 매력적입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/NanumBrush/NanumBrush.css",
+    "image": ["NanumBrush_001_01"]
+  },
+  {
+    "company": "네이버",
+    "title": {
+      "kr": "나눔손글씨펜",
+      "en": "NanumPen"
+    },
+    "license": "Free",
+    "tags": ["네이버"],
+    "weight": [400],
+    "download": "https://hangeul.naver.com/font",
+    "description": "나눔손글씨 펜체는 깔끔한 선 처리와 생동감이 돋보입니다. 반면 나눔손글씨 붓체는 꾸미지 않은 편안함과 리듬감이 매력적입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/NanumPen/NanumPen.css",
+    "image": ["NanumPen_001_01"]
+  },
+  {
+    "company": "네이버",
+    "title": {
+      "kr": "나눔스퀘어",
+      "en": "NanumSquare"
+    },
+    "license": "Free",
+    "tags": ["네이버"],
+    "weight": [300, 400, 700, 800],
+    "download": "https://hangeul.naver.com/font",
+    "description": "반듯한 직선으로 제목에 잘 어울리며 모바일에서도 잘 보이는 글꼴입니다. 꼭 필요한 2,350자만을 추려 용량을 가볍게 줄였고 웹 환경에서 보다 편리하게 사용 가능합니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/NanumSquare/NanumSquare.css",
+    "image": ["NanumSquare_001_01"]
+  },
+  {
+    "company": "네이버",
+    "title": {
+      "kr": "나눔스퀘어라운드",
+      "en": "NanumSquareRound"
+    },
+    "license": "Free",
+    "tags": ["네이버"],
+    "weight": [300, 400, 700, 800],
+    "download": "https://hangeul.naver.com/font",
+    "description": "나눔스퀘어 활자 가족으로 보기에 편한 라운드와 탈네모꼴의 모듈로 설계되어 젊고 경쾌한 인상을 가진 글꼴입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/NanumSquareRound/NanumSquareRound.css",
+    "image": ["NanumSquareRound_001_01"]
+  },
+  {
+    "company": "네이버",
+    "title": {
+      "kr": "나눔스퀘어네오",
+      "en": "NanumSquareNeo"
+    },
+    "license": "Free",
+    "tags": ["네이버"],
+    "weight": [300, 400, 700, 800, 900],
+    "download": "https://hangeul.naver.com/font",
+    "description": "나눔스퀘어 고유의 직선적인 형태를 계승한 글꼴로 친근한 미감과 안정적인 글줄이 특징이며, 다양한 환경에서 메시지를 주목도 있게 전달하기 좋은 글꼴입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/NanumSquareNeo/NanumSquareNeo.css",
+    "image": ["NanumSquareNeo_001_01"]
+  },
+  {
+    "company": "네이버",
+    "title": {
+      "kr": "D2coding",
+      "en": "D2coding"
+    },
+    "license": "Free",
+    "tags": ["네이버"],
+    "weight": [400, 700],
+    "download": "https://hangeul.naver.com/font",
+    "description": "D2 Coding 글꼴은 나눔바른고딕을 바탕으로 개발자의 코딩을 위해 가독성 및 유사 문자간 변별력 뿐만 아니라 디자인적으로 한글과의 조화를 고려해 최적화시킨 글꼴입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/D2coding/D2coding.css",
+    "image": ["D2coding_001_01"]
+  },
+  {
+    "company": "네이버",
+    "title": {
+      "kr": "마루부리",
+      "en": "MaruBuri"
+    },
+    "license": "Free",
+    "tags": ["네이버", "명조체"],
+    "weight": [200, 300, 400, 600, 700],
+    "download": "https://hangeul.naver.com/font",
+    "description": "마루 부리는 민부리로 채워진 화면에 온기를 불어넣고, 다양한 시각적 선택을 할 수 있도록 설계된 디지털 매체에 어울리는 부리(명조 계열) 글꼴입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/MaruBuri/MaruBuri.css",
+    "image": ["MaruBuri_001_01"]
+  },
+  {
+    "company": "배달의 민족",
+    "title": {
+      "kr": "배민 꾸불림체",
+      "en": "BMKkubulim"
+    },
+    "license": "Free",
+    "tags": ["배민"],
+    "weight": [400],
+    "download": "https://www.woowahan.com/fonts",
+    "description": "한양정보통신의 굴림체가 고딕체를 둥글게 굴려 가독성을 확보했다면, 배달의민족 꾸불림체는 굴리지 않고 꾸불려 자연스러운 것이 특징입니다. 두서가 없거나 경직되어 보이는 글에 자유분방한 파마끼를 더해줍니다",
+    "url": "https://websseu.github.io/fontkor/fonts/BMKkubulim/BMKkubulim.css",
+    "image": ["BMKkubulim_001_01"]
+  },
+  {
+    "company": "배달의 민족",
+    "title": {
+      "kr": "배민 을지로오래오래체",
+      "en": "BMEuljiroOraeorae"
+    },
+    "license": "Free",
+    "tags": ["배민"],
+    "weight": [400],
+    "download": "https://www.woowahan.com/fonts",
+    "description": "배달의민족 을지로오래오래체는 '배달의민족 을지로체'가 아주 오랜 세월을 보낸 모습을 상상해 만들었습니다. 쉽게 읽을 수 없지만, 글자가 남긴 세월의 흔적을 자세히 들여다보면 다 읽을 수 있습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/BMEuljiroOraeorae/BMEuljiroOraeorae.css",
+    "image": ["BMEuljiroOraeorae_001_01"]
+  },
+  {
+    "company": "배달의 민족",
+    "title": {
+      "kr": "배민 을지로10년후체",
+      "en": "BMEuljiro10yearslater"
+    },
+    "license": "Free",
+    "tags": ["배민"],
+    "weight": [400],
+    "download": "https://www.woowahan.com/fonts",
+    "description": "배민 을지로10년후체'는 '배민 을지로체'의 10년 후 모습을 상상하여 만들었습니다. 10년 동안 시간이 지나며 쌓인 햇빛과 비바람의 흔적을 느낄 수 있는 것이 특징입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/BMEuljiro10yearslater/BMEuljiro10yearslater.css",
+    "image": ["BMEuljiro10yearslater_001_01"]
+  },
+  {
+    "company": "배달의 민족",
+    "title": {
+      "kr": "배민 을지로체",
+      "en": "BMEuljiro"
+    },
+    "license": "Free",
+    "tags": ["배민"],
+    "weight": [400],
+    "download": "https://www.woowahan.com/fonts",
+    "description": "배달의민족 을지로체는 무명의 간판 글씨 장인이 그린 을지로 일대 가게들의 간판을 바탕으로 만든 것입니다. 획 마다의 힘찬 시작과 페인트 붓의 여유로운 끝 모양이 특징입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/BMEuljiro/BMEuljiro.css",
+    "image": ["BMEuljiro_001_01"]
+  },
+  {
+    "company": "배달의 민족",
+    "title": {
+      "kr": "배민 한나체 Pro",
+      "en": "BMHanNaPro"
+    },
+    "license": "Free",
+    "tags": ["배민"],
+    "weight": [400],
+    "download": "https://www.woowahan.com/fonts",
+    "description": "배달의민족 한나체 Pro는 맛있는 음식 이미지가 구석구석 숨어있는 서체입니다. 한글 조합은 되지만 실제로는 잘 쓰이지 않는 글자를 음식 이미지로 대체하여 타이핑할 때 뜬금없이 음식 그림이 뿅! 나왔다 사라집니다. 배고플 때 쓰면 더 배고파지는 것이 특징입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/BMHanNaPro/BMHanNaPro.css",
+    "image": ["BMHanNaPro_001_01"]
+  },
+  {
+    "company": "배달의 민족",
+    "title": {
+      "kr": "배민 한나체 Air",
+      "en": "BMHanNaAir"
+    },
+    "license": "Free",
+    "tags": ["배민"],
+    "weight": [400],
+    "download": "https://www.woowahan.com/fonts",
+    "description": "배달의민족 한나체 Air는 굵고 힘찬 타이틀 전용 서체 ‘한나는열한살체’를 사랑하는 많은 분들이 본문용으로 사용하기에, 우아한 시각문화를 위해 본문용 서체로 만든 것입니다. 작게 쓸수록 우아하고 잘 읽히는 것이 특징입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/BMHanNaAir/BMHanNaAir.css",
+    "image": ["BMHanNaAir_001_01"]
+  },
+  {
+    "company": "배달의 민족",
+    "title": {
+      "kr": "기랑해랑체",
+      "en": "BMKirangHaerang"
+    },
+    "license": "Free",
+    "tags": ["배민"],
+    "weight": [400],
+    "download": "https://www.woowahan.com/fonts",
+    "description": "배달의민족 기랑해랑체는 한 자 한 자 집중해 그리려다 삐뚤어진 글자 테두리 모양 원형을 채워 만든 것입니다. 칠하고 보니 동그라미가 마음과 다르게 커진 것이 가장 큰 특징입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/BMKirangHaerang/BMKirangHaerang.css",
+    "image": ["BMKirangHaerang_001_01"]
+  },
+  {
+    "company": "배달의 민족",
+    "title": {
+      "kr": "배민 연성체",
+      "en": "BMYeonSung"
+    },
+    "license": "Free",
+    "tags": ["배민"],
+    "weight": [400],
+    "download": "https://www.woowahan.com/fonts",
+    "description": "배달의민족 연성체는 제주도 호박엿 가판대를 모티브로 만든 서체입니다. 어수룩하지만 또박또박 한 글자씩 정성스럽게 써 내려간 붓글씨체로, 울뚝불뚝 리듬감이 느껴지는 것이 특징입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/BMYeonSung/BMYeonSung.css",
+    "image": ["BMYeonSung_001_01"]
+  },
+  {
+    "company": "배달의 민족",
+    "title": {
+      "kr": "배민 도현체",
+      "en": "BMDohYeon"
+    },
+    "license": "Free",
+    "tags": ["배민"],
+    "weight": [400],
+    "download": "https://www.woowahan.com/fonts",
+    "description": "배달의민족 도현체는 작도 후 아크릴판에 자를 대고 컷팅해서 만든 옛 간판을 모티브로한 서체입니다. 자음과 모음의 획이 서로 이어지는 것이 특징이며, 한글 서체 최초로 ‘ㅅ,ㅈ,ㅎ’등의 모양이 옆에 어떤 모음이 오느냐에 따라 자동으로 달라지는 글리프(glyph)를 적용하였습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/BMDohYeon/BMDohYeon.css",
+    "image": ["BMDohYeon_001_01"]
+  },
+  {
+    "company": "배달의 민족",
+    "title": {
+      "kr": "배민 한나는열한살체",
+      "en": "BMHanNa11"
+    },
+    "license": "Free",
+    "tags": ["배민"],
+    "weight": [400],
+    "download": "https://www.woowahan.com/fonts",
+    "description": "배달의민족 한나체는 아크릴 판 위에 시트지를 붙여 칼로 잘라낸 1960~70년대 간판을 모티브로 만들어 삐뚤빼뚤 조형성이 떨어지는 듯한 느낌의 서체입니다. 초기 한나체의 균일하지 못했던 글자 사이의 공간을 수정하여 더욱 완성도 있는 글씨체인 ‘한나는열한살’체로 거듭났습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/BMHanNa11/BMHanNa11.css",
+    "image": ["BMHanNa11_001_01"]
+  },
+  {
+    "company": "배달의 민족",
+    "title": {
+      "kr": "배민 주아체",
+      "en": "BMJua"
+    },
+    "license": "Free",
+    "tags": ["배민"],
+    "weight": [400],
+    "download": "https://www.woowahan.com/fonts",
+    "description": "배달의민족 주아체는 붓으로 직접 그려서 만든 손글씨 간판을 모티브로 만들었습니다. 붓으로 그려 획의 굵기가 일정하지 않고 동글동글한 느낌을 주는 서체로 옛날 간판의 푸근함과 정겨움이 묻어나는 것이 특징입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/BMJua/BMJua.css",
+    "image": ["BMJua_001_01"]
+  },
+  {
+    "company": "카페24",
+    "title": {
+      "kr": "카페24 클래식타입",
+      "en": "Cafe24Classictype"
+    },
+    "license": "Free",
+    "tags": ["카페24"],
+    "weight": [400],
+    "download": "https://fonts.cafe24.com/",
+    "description": "카페24 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/Cafe24Classictype/Cafe24Classictype.css",
+    "image": ["Cafe24Classictype_001_01"]
+  },
+  {
+    "company": "카페24",
+    "title": {
+      "kr": "카페24 당당해",
+      "en": "Cafe24Dangdanghae"
+    },
+    "license": "Free",
+    "tags": ["카페24"],
+    "weight": [400],
+    "download": "https://fonts.cafe24.com/",
+    "description": "카페24 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/Cafe24Dangdanghae/Cafe24Dangdanghae.css",
+    "image": ["Cafe24Dangdanghae_001_01"]
+  },
+  {
+    "company": "카페24",
+    "title": {
+      "kr": "카페24 단정해",
+      "en": "Cafe24Danjunghae"
+    },
+    "license": "Free",
+    "tags": ["카페24"],
+    "weight": [400],
+    "download": "https://fonts.cafe24.com/",
+    "description": "카페24 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/Cafe24Danjunghae/Cafe24Danjunghae.css",
+    "image": ["Cafe24Danjunghae_001_01"]
+  },
+  {
+    "company": "카페24",
+    "title": {
+      "kr": "카페24 동동",
+      "en": "Cafe24Dongdong"
+    },
+    "license": "Free",
+    "tags": ["카페24"],
+    "weight": [400],
+    "download": "https://fonts.cafe24.com/",
+    "description": "카페24 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/Cafe24Dongdong/Cafe24Dongdong.css",
+    "image": ["Cafe24Dongdong_001_01"]
+  },
+  {
+    "company": "카페24",
+    "title": {
+      "kr": "카페24 모야모야",
+      "en": "Cafe24Moyamoya"
+    },
+    "license": "Free",
+    "tags": ["카페24"],
+    "weight": [400],
+    "download": "https://fonts.cafe24.com/",
+    "description": "카페24 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/Cafe24Moyamoya/Cafe24Moyamoya.css",
+    "image": ["Cafe24Moyamoya_001_01"]
+  },
+  {
+    "company": "카페24",
+    "title": {
+      "kr": "카페24 모야모야 Face",
+      "en": "Cafe24MoyamoyaFace"
+    },
+    "license": "Free",
+    "tags": ["카페24"],
+    "weight": [400],
+    "download": "https://fonts.cafe24.com/",
+    "description": "카페24 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/Cafe24MoyamoyaFace/Cafe24MoyamoyaFace.css",
+    "image": ["Cafe24MoyamoyaFace_001_01"]
+  },
+  {
+    "company": "카페24",
+    "title": {
+      "kr": "카페24 아네모네",
+      "en": "Cafe24Ohsquare"
+    },
+    "license": "Free",
+    "tags": ["카페24"],
+    "weight": [400],
+    "download": "https://fonts.cafe24.com/",
+    "description": "카페24 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/Cafe24Ohsquare/Cafe24Ohsquare.css",
+    "image": ["Cafe24Ohsquare_001_01"]
+  },
+  {
+    "company": "카페24",
+    "title": {
+      "kr": "카페24 아네모네 에어",
+      "en": "Cafe24OhsquareAir"
+    },
+    "license": "Free",
+    "tags": ["카페24"],
+    "weight": [400],
+    "download": "https://fonts.cafe24.com/",
+    "description": "카페24 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/Cafe24OhsquareAir/Cafe24OhsquareAir.css",
+    "image": ["Cafe24OhsquareAir_001_01"]
+  },
+  {
+    "company": "카페24",
+    "title": {
+      "kr": "카페24 고운밤",
+      "en": "Cafe24Oneprettynight"
+    },
+    "license": "Free",
+    "tags": ["카페24"],
+    "weight": [400],
+    "download": "https://fonts.cafe24.com/",
+    "description": "카페24 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/Cafe24Oneprettynight/Cafe24Oneprettynight.css",
+    "image": ["Cafe24Oneprettynight_001_01"]
+  },
+  {
+    "company": "카페24",
+    "title": {
+      "kr": "카페24 빛나는별",
+      "en": "Cafe24Shiningstar"
+    },
+    "license": "Free",
+    "tags": ["카페24"],
+    "weight": [400],
+    "download": "https://fonts.cafe24.com/",
+    "description": "카페24 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/Cafe24Shiningstar/Cafe24Shiningstar.css",
+    "image": ["Cafe24Shiningstar_001_01"]
+  },
+  {
+    "company": "카페24",
+    "title": {
+      "kr": "카페24 심플해",
+      "en": "Cafe24Simplehae"
+    },
+    "license": "Free",
+    "tags": ["카페24"],
+    "weight": [400],
+    "download": "https://fonts.cafe24.com/",
+    "description": "카페24 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/Cafe24Simplehae/Cafe24Simplehae.css",
+    "image": ["Cafe24Simplehae_001_01"]
+  },
+  {
+    "company": "카페24",
+    "title": {
+      "kr": "카페24 쑥쑥",
+      "en": "Cafe24Ssukssuk"
+    },
+    "license": "Free",
+    "tags": ["카페24"],
+    "weight": [400],
+    "download": "https://fonts.cafe24.com/",
+    "description": "카페24 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/Cafe24Ssukssuk/Cafe24Ssukssuk.css",
+    "image": ["Cafe24Ssukssuk_001_01"]
+  },
+  {
+    "company": "카페24",
+    "title": {
+      "kr": "카페24 써라운드",
+      "en": "Cafe24Ssurround"
+    },
+    "license": "Free",
+    "tags": ["카페24"],
+    "weight": [400],
+    "download": "https://fonts.cafe24.com/",
+    "description": "카페24 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/Cafe24Ssurround/Cafe24Ssurround.css",
+    "image": ["Cafe24Ssurround_001_01"]
+  },
+  {
+    "company": "카페24",
+    "title": {
+      "kr": "카페24 써라운드 에어",
+      "en": "Cafe24SsurroundAir"
+    },
+    "license": "Free",
+    "tags": ["카페24"],
+    "weight": [400],
+    "download": "https://fonts.cafe24.com/",
+    "description": "카페24 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/Cafe24SsurroundAir/Cafe24SsurroundAir.css",
+    "image": ["Cafe24SsurroundAir_001_01"]
+  },
+  {
+    "company": "카페24",
+    "title": {
+      "kr": "카페24 슈퍼매직 Bold",
+      "en": "Cafe24SupermagicBold"
+    },
+    "license": "Free",
+    "tags": ["카페24"],
+    "weight": [400],
+    "download": "https://fonts.cafe24.com/",
+    "description": "카페24 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/Cafe24SupermagicBold/Cafe24SupermagicBold.css",
+    "image": ["Cafe24SupermagicBold_001_01"]
+  },
+  {
+    "company": "카페24",
+    "title": {
+      "kr": "카페24 슈퍼매직 Regular",
+      "en": "Cafe24SupermagicRegular"
+    },
+    "license": "Free",
+    "tags": ["카페24"],
+    "weight": [400],
+    "download": "https://fonts.cafe24.com/",
+    "description": "카페24 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/Cafe24SupermagicRegular/Cafe24SupermagicRegular.css",
+    "image": ["Cafe24SupermagicRegular_001_01"]
+  },
+  {
+    "company": "카페24",
+    "title": {
+      "kr": "카페24 숑숑",
+      "en": "Cafe24Syongsyong"
+    },
+    "license": "Free",
+    "tags": ["카페24"],
+    "weight": [400],
+    "download": "https://fonts.cafe24.com/",
+    "description": "카페24 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/Cafe24Syongsyong/Cafe24Syongsyong.css",
+    "image": ["Cafe24Syongsyong_001_01"]
+  },
+  {
+    "company": "넥슨",
+    "title": {
+      "kr": "넥슨 Lv.1 고딕",
+      "en": "NexonLv1Gothic"
+    },
+    "license": "Free",
+    "tags": ["넥슨", "고딕체"],
+    "weight": [300, 400, 700],
+    "download": "https://brand.nexon.com/ko/ci-brand-guidelines/typeface",
+    "description": "넥슨 Lv.1 고딕은 넥슨이 추구하는 젊음, 즐거운 세상에 전하는 서체입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/NexonLv1Gothic/NexonLv1Gothic.css",
+    "image": ["NexonLv1Gothic_001_01"]
+  },
+  {
+    "company": "넥슨",
+    "title": {
+      "kr": "넥슨 Lv.2 고딕",
+      "en": "NexonLv2Gothic"
+    },
+    "license": "Free",
+    "tags": ["넥슨", "고딕체"],
+    "weight": [300, 400, 500, 700],
+    "download": "https://brand.nexon.com/ko/ci-brand-guidelines/typeface",
+    "description": "다양한 분야에서 두루 사용할 수 있는 넥슨 Lv.2 고딕 서체입니다. 온/오프라인 등 적용에 구애받지 않고, 젋고 귀여운 넥슨 Lv.1 고딕보다 성숙하고 어른스러운 느낌의 서체로 완성 되었습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/NexonLv2Gothic/NexonLv2Gothic.css",
+    "image": ["NexonLv2Gothic_001_01"]
+  },
+  {
+    "company": "넥슨",
+    "title": {
+      "kr": "넥슨 풋볼 고딕",
+      "en": "NexonFootballGothic"
+    },
+    "license": "Free",
+    "tags": ["넥슨", "고딕체"],
+    "weight": [300, 700],
+    "download": "https://brand.nexon.com/ko/ci-brand-guidelines/typeface",
+    "description": "넥슨 풋볼 고딕 서체는 ‘최고를 플레이하라!’ 슬로건에서 출발하여 축구 경기의 역동적이며 박진감 넘치는 느낌을 토대로 제작된 폰트입니다. 또한 긴장감 있는 폰트를 표현하기 위해 사선의 활용이 자칫 가독성을 해칠 수 있으므로 장평을 넓히고 글자의 간격은 좁혀 글자에 안정감을 주었습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/NexonLv2Gothic/NexonLv2Gothic.css",
+    "image": ["NexonLv2Gothic_001_01"]
+  },
+  {
+    "company": "넥슨",
+    "title": {
+      "kr": "넥슨 메이플스토리",
+      "en": "NexonMaplestory"
+    },
+    "license": "Free",
+    "tags": ["넥슨"],
+    "weight": [300, 700],
+    "download": "https://brand.nexon.com/ko/ci-brand-guidelines/typeface",
+    "description": "메이플스토리 서체는 메이플스토리만의 귀엽고 발랄한 캐릭터와 재미있고 유쾌한 게임 분위기를 반영하여 제작하였습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/NexonMaplestory/NexonMaplestory.css",
+    "image": ["NexonMaplestory_001_01"]
+  },
+  {
+    "company": "넥슨",
+    "title": {
+      "kr": "넥슨 워헤이븐체",
+      "en": "NexonWarhaven"
+    },
+    "license": "Free",
+    "tags": ["넥슨", "고딕체"],
+    "weight": [400, 700],
+    "download": "https://brand.nexon.com/ko/ci-brand-guidelines/typeface",
+    "description": "워헤이븐체는 ‘새로운 전장의 날이 서다!’라는 슬로건 하에 근접 무기들이 맞부딪히는 전장에서 주는 단단하고 강한 분위기를 살려 디자인 되었습니다. 고딕 서체의 단단한 골격으로 강한 인상을 살렸으며, 브래킷이 있는 웨지 세리프와 각진 획 꺽임 포인트를 엿볼 수 있습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/NexonWarhaven/NexonWarhaven.css",
+    "image": ["NexonWarhaven_001_01"]
+  },
+  {
+    "company": "넥슨",
+    "title": {
+      "kr": "넥슨 카트 고딕",
+      "en": "NexonKartGothic"
+    },
+    "license": "Free",
+    "tags": ["넥슨", "고딕체"],
+    "weight": [500, 700, 800],
+    "download": "https://brand.nexon.com/ko/ci-brand-guidelines/typeface",
+    "description": "대표적인 레이싱 게임인 카트라이더: 드리프트는 사용자의 폭이 넓고 다양하여 친근함, 밝고 경쾌한 게임의 특성, 드리프트의 특장점을 서체의 형태적 느낌으로 표현하고자 하였습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/NexonKartGothic/NexonKartGothic.css",
+    "image": ["NexonKartGothic_001_01"]
+  },
+  {
+    "company": "넥슨",
+    "title": {
+      "kr": "넥슨 배찌체",
+      "en": "NexonBazzi"
+    },
+    "license": "Free",
+    "tags": ["넥슨", "손글씨체"],
+    "weight": [400],
+    "download": "https://brand.nexon.com/ko/ci-brand-guidelines/typeface",
+    "description": "배찌체는 2019년 공모전을 통해 제작된 서체입니다. 배찌를 사랑해 주시고 특징을 잘 이해하고 계신 유저분들의 참여로 완성되어 더욱 뜻깊은 서체입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/NexonBazzi/NexonBazzi.css",
+    "image": ["NexonBazzi_001_01"]
+  },
+  {
+    "company": "넥슨",
+    "title": {
+      "kr": "넥슨 마비옛체",
+      "en": "NexonMabinogiClassic"
+    },
+    "license": "Free",
+    "tags": ["넥슨"],
+    "weight": [400],
+    "download": "https://brand.nexon.com/ko/ci-brand-guidelines/typeface",
+    "description": "마비옛체는 마비노기의 공식폰트로 2004년 마비노기 정식 서비스 때부터 자리를 지켜왔습니다. 밀레시안들은 마비옛체를 통해 에린의 발랄하고 평화로운 분위기에 녹아들었습니다. 오랫동안 밀레시안과 에린을 이어주는 소중한 소통 창구였던 마비옛체. 이제 게임 안에서만 만날 수 있었던 마비노기의 상징을 어디에서나 만날 수 있습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/NexonMabinogiClassic/NexonMabinogiClassic.css",
+    "image": ["NexonMabinogiClassic_001_01"]
+  },
+  {
+    "company": "넥슨",
+    "title": {
+      "kr": "넥슨 던파 비트비트",
+      "en": "NexonDNFBitBit"
+    },
+    "license": "Free",
+    "tags": ["넥슨", "제목용 서체", "픽셀"],
+    "weight": [400],
+    "download": "https://brand.nexon.com/ko/ci-brand-guidelines/typeface",
+    "description": "던파 비트비트체는 ‘비트비트 8비트’에서 영감을 얻어, 도트/픽셀 아트와 가장 잘 어울리도록 디자인된 ‘제목용 서체’입니다. 저해상도에 최적화된 비트맵 폰트를 고해상도에도 비트맵 폰트의 특징을 그대로 표현될 수 있게 계단 형태의 디자인을 하나의 질감으로 표현하여 제작하였습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/NexonDNFBitBit/NexonDNFBitBit.css",
+    "image": ["NexonDNFBitBit_001_01"]
+  },
+  {
+    "company": "넥슨",
+    "title": {
+      "kr": "넥슨 던파 연단된 칼날",
+      "en": "NexonDNFForgedBlade"
+    },
+    "license": "Free",
+    "tags": ["넥슨"],
+    "weight": [300, 500, 700],
+    "download": "https://brand.nexon.com/ko/ci-brand-guidelines/typeface",
+    "description": "거침없이 돌아가는 톱니바퀴를 모티브하여, 운명의 굴레 속에서 ‘연단된 칼날’의 강한 저항력과 의지를 담고 있습니다. 또한, 그래픽요소가 들어간 자소와 세리프를 통하여 던전앤파이터만의 통쾌한 타격감과 액션감을 함께 느낄 수 있습니다",
+    "url": "https://websseu.github.io/fontkor/fonts/NexonDNFForgedBlade/NexonDNFForgedBlade.css",
+    "image": ["NexonDNFForgedBlade_001_01"]
+  },
+  {
+    "company": "지마켓",
+    "title": {
+      "kr": "지마켓 산스",
+      "en": "GmarketSans"
+    },
+    "license": "Free",
+    "tags": ["지마켓", "고딕체"],
+    "weight": [300, 500, 700],
+    "download": "https://corp.gmarket.com/fonts/",
+    "description": "G마켓이 추구하는 다양하고 직관적인 쇼핑 경험을 단순하고 직선적인 형태로 표현했습니다. 네모 틀에 꽊 채운 기하학적인 글자 형태는 글줄을 가지런하게 만들어 깔금하고 정련된 느낌을 줍니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/GmarketSans/GmarketSans.css",
+    "image": ["GmarketSans_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 그림일기",
+      "en": "HakgyoansimGeurimilgi"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 그림일기는 부드러운 곡선으로 형태를 잡아 친근함을 느낄 수 있도록 디자인되었습니다. 속공간을 살려 귀여운 느낌의 손글씨로 표현된 것이 특징인 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimGeurimilgi/HakgyoansimGeurimilgi.css",
+    "image": ["HakgyoansimGeurimilgi_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 나들이",
+      "en": "HakgyoansimNadeuri"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [300, 700],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 나들이는 'ㅅ' 계열의 내림획을 수직에 가깝게 조절하고, 자음이 아래로 기울어져 독특한 손글씨 스타일을 연출합니다. 이 폰트는 또박또박 정성스럽게 쓰려는 느낌을 표현한 것이 특징인 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimNadeuri/HakgyoansimNadeuri.css",
+    "image": ["HakgyoansimNadeuri_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 둥근미소",
+      "en": "HakgyoansimDunggeunmiso"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400, 700],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 둥근미소는 둥글게 굴린 디자인으로 부드러운 느낌을 강조하며, 스텐실 스타일을 더해 독특함을 부각시켰습니다. 큰 자소 크기를 통해 높은 가시성을 확보했으며, 밝고 귀여운 느낌의 디자인된 타이틀 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimDunggeunmiso/HakgyoansimDunggeunmiso.css",
+    "image": ["HakgyoansimDunggeunmiso_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 받아쓰기",
+      "en": "HakgyoansimBadasseugi"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400, 700],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 받아쓰기는 직선과 곡선이 조화된 디자인으로, 정직하고 바른 느낌을 전달합니다. 글자의 획 순서, 공간, 글줄 등이 올곧게 표현되어 판독성과 가독성이 뛰어나며, 받아쓰기와 같은 바른 글씨 쓰기 연습에 적합한 본문용 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimBadasseugi/HakgyoansimBadasseugi.css",
+    "image": ["HakgyoansimBadasseugi_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 별빛하늘",
+      "en": "HakgyoansimByeolbichhaneul"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [300, 700],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 별빛하늘는 팝한 느낌과 독특한 디자인으로 시선을 집중시키는 특징이 있습니다. 생동감 있고 톡톡 튀는 분위기를 전달하며, 이러한 특성 덕분에 다양한 분야에서 눈에 띄게 활용될 수 있도록 디자인된 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimByeolbichhaneul/HakgyoansimByeolbichhaneul.css",
+    "image": ["HakgyoansimByeolbichhaneul_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 별자리",
+      "en": "HakgyoansimByeoljari"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [300, 700],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 별자리는 'ㅅ' 계열 글자에 기하학적 디자인 요소를 적용해 독특한 느낌을 강조했습니다. 글자 간의 간격을 중심선에 맞춰 활기차게 구성하여 시선을 끌며, 자소의 모서리는 미세하게 굴려 부드러운 인상을 주는 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimByeoljari/HakgyoansimByeoljari.css",
+    "image": ["HakgyoansimByeoljari_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 알림장",
+      "en": "HakgyoansimAllimjang"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400, 700],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 알림장는 꽉 찬 네모꼴의 디자인으로, 민글자 초성 하단에 여백을 두어 젊고 활기찬 느낌을 강조했습니다. 자음 'ㅊ'과 'ㅎ'의 가로획은 길게 그려져 단단하고 안정된 인상을 주며, 글자의 첫 부분을 곡선으로 처리해 밝고 경쾌한 느낌을 느낄 수 있는 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimAllimjang/HakgyoansimAllimjang.css",
+    "image": ["HakgyoansimAllimjang_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 출석부",
+      "en": "HakgyoansimChulseokbu"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [300, 700],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 출석부는 꽉 찬 모듈과 넓은 네모꼴 형태로, 시원하고 읽기 쉬운 판독성과 가독성을 제공합니다. 자소들의 획 끝이 유선형으로 좁아지는 특징이 있으며, 'ㅇ'은 컨덴스 타입으로 디자인되어 전체적으로 단단하고 깔끔한 느낌을 강조하는 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimChulseokbu/HakgyoansimChulseokbu.css",
+    "image": ["HakgyoansimChulseokbu_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 칠판지우개",
+      "en": "HakgyoansimChilpanjiugae"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [300, 700],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 칠판지우개는 획과 획 사이의 여백을 넉넉히 두고 글자의 폭을 자유롭게 디자인하여, 삐뚤빼뚤한 손글씨의 느낌을 잘 담아내고 있습니다. 이 폰트는 자유로운 느낌을 강조하며, 자연스럽고 개성 있는 손글씨의 매력을 표현하도록 디자인한 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimChilpanjiugae/HakgyoansimChilpanjiugae.css",
+    "image": ["HakgyoansimChilpanjiugae_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 퍼즐 블랙",
+      "en": "HakgyoansimPuzzleBlack"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 퍼즐는 꽉 찬 모듈과 둥근 라운드를 강조하여 부드럽고 둥근 느낌을 전달하며, 스텐실 스타일을 더해 강한 개성을 부각시킵니다. Black과 Outline 두 가지 버전을 제공하여, 겹치거나 개별적으로 활용할 수 있는 독특한 타이틀 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimPuzzleBlack/HakgyoansimPuzzleBlack.css",
+    "image": ["HakgyoansimPuzzleBlack_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 퍼즐 아웃라인",
+      "en": "HakgyoansimPuzzleOutline"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 퍼즐는 꽉 찬 모듈과 둥근 라운드를 강조하여 부드럽고 둥근 느낌을 전달하며, 스텐실 스타일을 더해 강한 개성을 부각시킵니다. Black과 Outline 두 가지 버전을 제공하여, 겹치거나 개별적으로 활용할 수 있는 독특한 타이틀 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimPuzzleOutline/HakgyoansimPuzzleOutline.css",
+    "image": ["HakgyoansimPuzzleOutline_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 몽글몽글",
+      "en": "HakgyoansimMonggeulmonggeul"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 몽글몽글은 사각펜으로 쓴듯한 느낌으로 디자인한 폰트입니다. 자소의 크기를 다양하게 디자인하여 발랄한 분위기를 더하였습니다. 획에 굵기변화를 주고 리듬감 있는 글줄로 설계하여 손글씨의 자유로운 분위기를 살렸습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimMonggeulmonggeul/HakgyoansimMonggeulmonggeul.css",
+    "image": ["HakgyoansimMonggeulmonggeul_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 지우개",
+      "en": "HakgyoansimJiugae"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 지우개는 오른쪽으로 곡선을 이루어 올라가는 가로획과 가로 중성의 사선처리 통해 동적인 느낌을 표현한 폰트입니다. 특히 'ㅅ','ㅆ' 계열에 탄탄하면서도 획대비있는 특징적인 형태를 통해 경쾌함과 발랄한 인상을 느낄 수 있도록 하였습니다. 넓은 글자폭과 꽉찬 모듈설계, 획의 두께감을 높여 주목성을 더했습니다. ",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimJiugae/HakgyoansimJiugae.css",
+    "image": ["HakgyoansimJiugae_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 물결",
+      "en": "HakgyoansimMulgyeol"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400, 700],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 물결은 물결을 컨셉으로 과감한 획대비와 큼지막한 자소를 사용해 디자인하여 시원시원한 느낌을 주었습니다. 자소가 전체적으로 직각의 단단한 형태를 이루지만 글줄 하단에는 물결모양의 형태를 주어 생동감을 더욱 강조하였습니다. 또한 조판 시 자소가 부드럽게 이어져 즐거움과 유니크함을 표현하였습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimMulgyeol/HakgyoansimMulgyeol.css",
+    "image": ["HakgyoansimMulgyeol_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 꼬꼬마",
+      "en": "HakgyoansimKkokkoma"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 꼬꼬마는 어린이의 손글씨를 바탕으로 제작된 폰트입니다. 자소의 크기와 형태를 다양하게 디자인하고, 자소마다 기울기를 다르게 주어 어린이 특유의 자유분방함이 표현되었습니다. 필압에 따른 굵기 변화와 리듬감 있는 글줄 설계로 자연스러움과 생동감이 더해졌습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimKkokkoma/HakgyoansimKkokkoma.css",
+    "image": ["HakgyoansimKkokkoma_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 모험가",
+      "en": "HakgyoansimMoheomga"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400, 700],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 모험가는 꽉찬 네모꼴에 큼직한 자소 디자인으로 거대한 인상을 강조한 폰트입니다. ㅂ이나 H,M 같이 두 번에 나뉘어 디자인 된 사선획으로 개성을 더하였습니다. 가로세로의 획대비를 통해 속공간을 높여 크기감을 살렸고, 사선획과 수직획의 조합으로 조판시 정자와 이탤릭의 조화를 느낄 수 있습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimMoheomga/HakgyoansimMoheomga.css",
+    "image": ["HakgyoansimMoheomga_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 뜀틀",
+      "en": "HakgyoansimTtwimteul"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 뜀틀은 무게감있는 굵기에 원에 가까운 굴림을 주어 부드러운 이미지를 표현하였고, 획 끝에 포인트를 주어 주목성을 높인 폰트입니다. 자소 ㅎ 은 줄기와 'ㅇ'를 이어지게 디자인하여 폰트의 개성을 강조하였습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimTtwimteul/HakgyoansimTtwimteul.css",
+    "image": ["HakgyoansimTtwimteul_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 은하수",
+      "en": "HakgyoansimEunhasu"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 은하수는 자유분방한 인상의 손글씨 폰트입니다. 다양한 크기와 길이감으로 디자인된 자소들로 아기자기한 느낌을 줍니다. 자소 'ㅇ'의 비정형적인 특징으로 독특하고 장난스러움을 표현하였으며, 가변폭으로 설계하여 조판시 리듬감있는 글줄은 생기발랄한 분위기를 더하였습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimEunhasu/HakgyoansimEunhasu.css",
+    "image": ["HakgyoansimEunhasu_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 여행",
+      "en": "HakgyoansimYeohaeng"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 여행은 꽉 찬 네모꼴 구조에 굵기 대비와 기둥의 짧은 돌기 표현, 세로줄기의 미세한 기울기로 유니크한 인상을 담았습니다. 가로모임 글자에 이음줄기를 연결하여 손글씨의 자연스러운 흐름을 더했고, 삐침과 내리점은 폭이 점점 좁아지는 기하학적인 형태로 또렷하고 깨끗한 성격이 특징입니다. 트렌디한 개성으로 임팩트 있고 감각적인 작업에 사용될 수 있습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimYeohaeng/HakgyoansimYeohaeng.css",
+    "image": ["HakgyoansimYeohaeng_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 콧수염",
+      "en": "HakgyoansimKossuyeom"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 콧수염은 부드러운 곡선과 획 끝에 탱글한 굴림으로 디자인한 폰트입니다. 자소 'ㅅ''ㅈ'에서 말아올린 모양으로 디자인하고 'ㅇ''ㅎ'에 획을 끊어 삐침을 주어 폰트의 개성을 더하였습니다. 꽉찬 모듈에 두께감 있는 획으로 주목성을 높였으며 일정한 글줄로 설계하여 단정한 인상을 주었습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimKossuyeom/HakgyoansimKossuyeom.css",
+    "image": ["HakgyoansimKossuyeom_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 사물함",
+      "en": "HakgyoansimSamulham"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 사물함은 강렬한 인상과 주목성을 가진 제목용 폰트입니다. 자소들의 뾰족한 끝처리와 안으로 휘어지는 형태들을 통해 안에서 밖으로 발산되는 느낌을 표현하였습니다. 특히 ㅁ, ㅂ 과 같은 자소들은 네면이 퍼지도록 하여 기세 있는 인상을 느낄 수 있게 하였습니다. 또 두께감 있는 획과 꽉 찬 네모꼴 설계로 높은 주목성을 주었고 앞선 특징들을 통해 조판 시 강하고 세찬 느낌을 표현할 수 있습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimSamulham/HakgyoansimSamulham.css",
+    "image": ["HakgyoansimSamulham_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 꽈배기",
+      "en": "HakgyoansimKkwabaegi"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 꽈배기는 통통한 굴림과 곡선으로 귀여운 느낌을 표현한 폰트입니다. ㅅ계열의 획을 한번 꼬아 디자인하고 ㅇ의 획 또한 교차시키거나 맞닿도록 하여 개성을 높였습니다. 전체적으로 자소들에 곡선 획을 더해 통통 튀고 발랄한 느낌을 표현하였습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimKkwabaegi/HakgyoansimKkwabaegi.css",
+    "image": ["HakgyoansimKkwabaegi_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 돋보기",
+      "en": "HakgyoansimDotbogi"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 돋보기는 한 자소 안에 세로획의 굵기 차이를 주어 유니크한 특징을 가진 폰트입니다. 꽉찬 모듈에 글자의 상단은 사선으로 하단은 반듯하게 설계하여 독특한 인상을 더하였습니다. 반듯한 글줄로 조판시 안정감을 느낄 수 있습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimDotbogi/HakgyoansimDotbogi.css",
+    "image": ["HakgyoansimDotbogi_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 운동장",
+      "en": "HakgyoansimUndongjang"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 운동장은 중성 'ㅏ'는 기둥과 곁줄기를 연결한 형태로 디자인하고, 자소마다 직선과 곡선을 사용하여 단단하면서 부드러운 서체 인상을 전달합니다. 자소  'ㅅ', 'ㅈ', 'ㅊ'은 계열에 따라 삐침이 오른쪽으로 뻗어지게 변화를 주어 서체의 개성을 더하였습니다. 시각 기준선을 상단에 맞추어 반듯하고 안정적이면서, 하단은 리듬감을 느낄 수 있습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimUndongjang/HakgyoansimUndongjang.css",
+    "image": ["HakgyoansimUndongjang_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 리코더",
+      "en": "HakgyoansimRikodeo"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 리코더는 꽉 찬 느낌과 둥근 맺음이 특징인 헤드라인 서체입니다. 민글자 초성의 삐침을 상단으로 뻗어지는 구조로 디자인하여 동적이고 활발한 느낌을 주며, 자음에 곡선 요소를 넣어 부드러운 인상을 줍니다. 자소 ‘ㅂ’, ‘ㅃ’, ‘ㅅ’ ,‘ㅎ’꼴은 대칭으로 안정감을 더하였고, 꽉 찬 모듈과 고정 폭을 사용하여 조판 시 깔끔해 보이도록 하였습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimRikodeo/HakgyoansimRikodeo.css",
+    "image": ["HakgyoansimRikodeo_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 우산",
+      "en": "HakgyoansimUsan"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 우산은 붓으로 썼을 때의 질감을 자소에 적용한 캘리그래피 서체입니다. 붓글씨 느낌을 자소의 획대 비로 나타내 필압을 표현하여 서체의 개성을 살려주었습니다. 상하단의 리듬감 있는 글줄은 손글씨 특유의 자유로운 이미지를 줍니다. ",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimUsan/HakgyoansimUsan.css",
+    "image": ["HakgyoansimUsan_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 점심시간",
+      "en": "HakgyoansimJeomsimsigan"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 점심시간은 굴림과 기울기를 활용해 밝고 엉뚱한 느낌을 담은 헤드라인 폰트입니다. ㅁ,ㅅ,ㅈ과 같은 자소에 사선 · 직선 세로획을 함께 사용해 개성을 더하였습니다. 또 ㄹ의 꺾임과 중간획에 굴림 및 기울기를 더해 동적인 느낌을 주었습니다. 알파벳도 함께 기울기 있는 형태로 디자인하여 한글과 어울림을 높였습니다. 꽉찬 모듈과 얇은 획으로 속공간을 넓혀 높은 주목성을 가지고 있습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimJeomsimsigan/HakgyoansimJeomsimsigan.css",
+    "image": ["HakgyoansimJeomsimsigan_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 마법사",
+      "en": "HakgyoansimMabeopsa"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 마법사는 판타지적인 인상을 가진 폰트입니다. 획끝을 뾰족하게 디자인하여 세침한 인상을 주었고, 큰 획대비와 기울기 있는 획으로 동화적인 분위기를 더하였습니다. 단정한 글줄에 꽉찬 모듈로 설계하여 조판시 안정적인 느낌을 줍니다. ",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimMabeopsa/HakgyoansimMabeopsa.css",
+    "image": ["HakgyoansimMabeopsa_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 소나기",
+      "en": "HakgyoansimSonagi"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 소나기는 또박또박 쓴듯한 자연스러운 필기감이 느껴지는 폰트입니다. 자소마다 삐침을 주고 다양한 기울기의 획을 사용하여 손글씨 느낌과 개성을 잘 표현하였고 특히 사선으로 뻗은 획들은 시원한 느낌을 줍니다. 리듬감 있는 글줄로 설계하여 자유분방함을 느낄 수 있습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimSonagi/HakgyoansimSonagi.css",
+    "image": ["HakgyoansimSonagi_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 투호",
+      "en": "HakgyoansimTuho"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 투호는 긴장감과 거친 분위기를 콘셉트로 제작된 폰트입니다. 날렵한 획의 모양과 사선으로 마무리 한 획 맺음을 통해 강렬한 인상을 표현하였습니다. 전체적으로 기울기 있는 자소와 리듬감 있는 글줄을 통해 조판 시 역동적인 느낌을 느낄 수 있습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimTuho/HakgyoansimTuho.css",
+    "image": ["HakgyoansimTuho_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 구름",
+      "en": "HakgyoansimGureum"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 구름은 획대비가 큰 네모꼴 모듈로 주목성을 높여 시원한 공간감을 살려준 헤드라인 폰트입니다. 'ㅅ, ㅜ'와 같은 자소를 유연하게 곡선으로 표현하여 세련된 인상을 줍니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimGureum/HakgyoansimGureum.css",
+    "image": ["HakgyoansimGureum_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 나무",
+      "en": "HakgyoansimNamu"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [300, 700],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 나무는 끊어진 자소와 기울기를 활용해 역동적인 인상을 담은 폰트입니다. 일정한 획의 기울기와 끊어진 자소로 조판시 동적이고 힘찬 느낌을 느낄 수 있습니다. ㅅ과 ㅈ계열의  단단한 곡선으로 떨어지는 형태를 통해 개성을 더하였고, 영문 또한 획의 강약과 끊어진 특징을 활용한 디자인으로 한글의 컨셉과 조화롭게 보여집니다. 꽉찬 모듈과 두께감있는 웨이트를 가지고 있어 헤드라인으로 사용했을 때 효과적입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimNamu/HakgyoansimNamu.css",
+    "image": ["HakgyoansimNamu_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 우주",
+      "en": "HakgyoansimWooju"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 우주는 꽉 찬 네모틀의 구조로서 획 끝이 동글동글하여 시각적으로 편안한 인상을 풍깁니다. 드넓은 우주를 표현한 속공간과 ㅁ, ㅋ, ㅂ의 닫힌 공간을 열어주어 아기자기한 상상력을 표현했습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimWooju/HakgyoansimWooju.css",
+    "image": ["HakgyoansimWooju_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 분필",
+      "en": "HakgyoansimBunpil"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 분필은 분필로 글씨를 쓸 때의 폭닥폭닥한 촉감을 표현한 폰트입니다. 분필 글씨의 감성을 또박또박 똑 부러지지만 어쩐지 금세 지워질 것 같기도 한 아련한 정서를 표현하였습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimBunpil/HakgyoansimBunpil.css",
+    "image": ["HakgyoansimBunpil_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 봄방학",
+      "en": "HakgyoansimBombanghak"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 봄방학은 두꺼운 매직펜으로 쓴 듯한 획의 두께감에 하트와 동그라미, 반짝임 등의 장식을 더하여 한 글자만써도 주목도 있는 폰트입니다. 글자수를 적게 사용하는 이름표, 시간표, 스티커, 영상 자막의 짧은 표현이나 의성어, 의태어 등에 활용도가 높을 것으로 예상됩니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimBombanghak/HakgyoansimBombanghak.css",
+    "image": ["HakgyoansimBombanghak_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 꾸러기",
+      "en": "HakgyoansimGgooreogi"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 꾸러기는 학생들이 직접 쓴 것 같은 손글씨 느낌으로 모두를 웃길 수 있는 익살스런 디자인의 폰트입니다. 글자의 크기 및 배열이 자유로운 것이 특징이라 학생들의 목소리를 대변하는 자막용 서체로 활용하기 좋습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimGgooreogi/HakgyoansimGgooreogi.css",
+    "image": ["HakgyoansimGgooreogi_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 산뜻돋움",
+      "en": "HakgyoansimSantteutdotum"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [300, 500],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 산뜻돋움은 시원한 속공간과 산뜻한 인상으로 높은 주목성을 가진 현대적인 형태의 완성도 높은 본문용 폰트입니다. 지면보다 PPT, 앱, 웹 환경과 같이 모니터 화면에서 사용하기에 적합합니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimSantteutdotum/HakgyoansimSantteutdotum.css",
+    "image": ["HakgyoansimSantteutdotum_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 바른돋움",
+      "en": "HakgyoansimBareondotum"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400, 700],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 바른돋움은 여러 단계의 굵기와 굵기별 모듈, 디테일의 수정을 거친 논리적이고 합리적인 구조의 고딕체입니다. 본문뿐 아니라 제목, 자막 용도 등 모든 환경에서 사용하기 적합합니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimBareondotum/HakgyoansimBareondotum.css",
+    "image": ["HakgyoansimBareondotum_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 바른바탕",
+      "en": "HakgyoansimBareonbatang"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [400, 700],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 바른바탕은 안정적이면서도 명료하고 간결한 느낌을 주는 폰트입니다. 제목, 본문, 자막 등 모든 용도로 사용하기 적합합니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimBareonbatang/HakgyoansimBareonbatang.css",
+    "image": ["HakgyoansimBareonbatang_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 맑은날",
+      "en": "HakgyoansimMalgeunnal"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [500, 700],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 맑은날은 글자 하나하나에 아이 같은 표정을 담아 귀여운 느낌을 주고 동화적인 조형미를 최대한 살렸으며, 이른 아침 햇살처럼 밝고 산뜻함과 함께 꿈을 가진 아이의 마음을 담은 폰트입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimMalgeunnal/HakgyoansimMalgeunnal.css",
+    "image": ["HakgyoansimMalgeunnal_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 돌담",
+      "en": "HakgyoansimDoldam"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [300, 500, 700],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 돌담은 글자 사이의 공간감을 안정감 있게 조정한 정제되고 질서 잡힌 가운데 감성과 멋이 한껏 살아있는 폰트입니다. 질감이 살아있어 손맛을 더욱 느낄 수 있습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimDoldam/HakgyoansimDoldam.css",
+    "image": ["HakgyoansimDoldam_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 산뜻바탕",
+      "en": "HakgyoansimSantteutbatang"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [300, 500],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 산뜻바탕은 시원한 속공간과 산뜻한 인상으로 높은 주목성을 가진 현대적인 형태의 완성도 높은 본문용 폰트입니다. 지면보다 PPT, 앱, 웹 환경과 같이 모니터 화면에서 사용하기에 적합합니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimSantteutbatang/HakgyoansimSantteutbatang.css",
+    "image": ["HakgyoansimSantteutbatang_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 곧은제목",
+      "en": "HakgyoansimGodeunjemok"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [500, 700],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 곧은제목은 제목용으로 쓰기 위해 굵은체를 기본 구조로 두고 제작되었으며, 기존 제목용 서체보다 두꺼운 것이 특징입니다. 가로폭과 세로길이의 비율을 4:3으로 가로폭을 넓게 해 안정된 느낌을 줍니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimGodeunjemok/HakgyoansimGodeunjemok.css",
+    "image": ["HakgyoansimGodeunjemok_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 붓펜",
+      "en": "HakgyoansimButpen"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [300, 500, 700],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 붓펜은 붓글씨에서 오는 복고적인 향수와 자유스러운 획의 방향으로 현대적인 느낌을 주는 폰트입니다. 어디로 튈지 모르는 활기와 역동성을 가득 품은 자유로운 획이 특징입니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimButpen/HakgyoansimButpen.css",
+    "image": ["HakgyoansimButpen_001_01"]
+  },
+  {
+    "company": "KERIS",
+    "title": {
+      "kr": "학교안심 가을소풍",
+      "en": "HakgyoansimGaeulsopung"
+    },
+    "license": "Free",
+    "tags": ["학교안심"],
+    "weight": [300, 700],
+    "download": "https://copyright.keris.or.kr/wft/fntDwnld",
+    "description": "학교안심 가을소풍은 편안함과 따스함이 묻어나는 감성적인 손글씨 스타일의 폰트입니다. 아날로그적 손맛을 살리기 위해 실제 손글씨가 갖고 있는 조형적 특징을 그대로 가져왔으며 제목이나 본문, 자막 등 두루두루 활용하기 좋습니다.",
+    "url": "https://websseu.github.io/fontkor/fonts/HakgyoansimGaeulsopung/HakgyoansimGaeulsopung.css",
+    "image": ["HakgyoansimGaeulsopung_001_01"]
+  }
+]

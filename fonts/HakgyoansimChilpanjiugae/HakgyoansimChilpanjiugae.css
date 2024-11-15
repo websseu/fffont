@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "HakgyoansimChilpanjiugae";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(HakgyoansimChilpanjiugae-Light.woff2) format("woff2");
+}
+@font-face {
+  font-family: "HakgyoansimChilpanjiugae";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(HakgyoansimChilpanjiugae-Bold.woff2) format("woff2");
+}
