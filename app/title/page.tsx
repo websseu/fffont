@@ -9,7 +9,7 @@ export default function TitlePage() {
   useEffect(() => {
     async function fetchFonts() {
       const response = await fetch(
-        "https://websseu.github.io/fontkor/json/fonts_kor.json"
+        "https://websseu.github.io/fffont/json/fonts_kor.json"
       );
       const data = await response.json();
       setFonts(data.sort(() => Math.random() - 0.5));

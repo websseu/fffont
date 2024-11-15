@@ -4,7 +4,7 @@ import { Analytics } from "@vercel/analytics/react";
 import Header from "@/components/Header";
 
 export const metadata: Metadata = {
-  title: "fontKor - Discover Diverse Styles of Korean Fonts!",
+  title: "fffont - Discover Diverse Styles of Korean Fonts!",
   description:
     "Explore a variety of Korean fonts in different styles. Enhance your website with beautiful typography.",
   keywords: [
@@ -17,26 +17,26 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "fontKor" }],
   openGraph: {
-    title: "fontKor - Discover Diverse Styles of Korean Fonts",
+    title: "fffont - Discover Diverse Styles of Korean Fonts",
     description:
       "Explore a variety of Korean fonts in different styles. Enhance your website with beautiful typography.",
-    url: "https://fontkor.com",
+    url: "https://fffont.com",
     images: [
       {
-        url: "https://fontkor.com/og-image.jpg",
+        url: "https://fffont.com/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "fontKor website preview image",
+        alt: "fffont website preview image",
       },
     ],
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "fontKor - Discover Diverse Styles of Korean Fonts",
+    title: "fffont - Discover Diverse Styles of Korean Fonts",
     description:
       "Explore a variety of Korean fonts in different styles. Enhance your website with beautiful typography.",
-    images: ["https://fontkor.com/twitter-image.jpg"],
+    images: ["https://fffont.com/twitter-image.jpg"],
   },
   icons: {
     icon: "/favicon.ico",
