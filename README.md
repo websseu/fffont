@@ -10,7 +10,7 @@ Hello! Are you interested in Korean fonts? Fonts play a crucial role in shaping 
 기본 주소
 
 ```
-https://websseu.github.io/fontkor/fontkor.css
+https://websseu.github.io/fffont/fffont.css
 ```
 
 CSS에 적용할 경우
