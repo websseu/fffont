@@ -12,7 +12,7 @@ export const FontProvider = ({ children }) => {
     const fetchFonts = async () => {
       try {
         const response = await fetch(
-          "https://websseu.github.io/fffont/json/fonts_kor.json"
+          "https://websseu.github.io/fffont/fffont.json"
         );
         const data = await response.json();
         setFonts(data);
