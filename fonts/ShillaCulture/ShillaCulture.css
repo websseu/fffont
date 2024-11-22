@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "ShillaCulture";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(ShillaCulture-Medium.woff2) format("woff2");
+}
+@font-face {
+  font-family: "ShillaCulture";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(ShillaCulture-Bold.woff2) format("woff2");
+}

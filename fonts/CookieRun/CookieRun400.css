@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "CookieRun";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(CookieRun.woff2) format("woff2");
+}

@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "GamtanRoadBatang";
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(GamtanRoadBatang-Thin.woff2) format("woff2");
+}
+@font-face {
+  font-family: "GamtanRoadBatang";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(GamtanRoadBatang.woff2) format("woff2");
+}
+@font-face {
+  font-family: "GamtanRoadBatang";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(GamtanRoadBatang-Bold.woff2) format("woff2");
+}

@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "TheJamsil";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(TheJamsil-Light.woff2) format("woff2");
+}

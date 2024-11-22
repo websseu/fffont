@@ -1,0 +1,63 @@
+@font-face {
+  font-family: "Paperlogy";
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(Paperlogy-Thin.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Paperlogy";
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(Paperlogy-ExtraLight.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Paperlogy";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(Paperlogy-Light.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Paperlogy";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(Paperlogy-Regular.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Paperlogy";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(Paperlogy-Medium.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Paperlogy";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(Paperlogy-SemiBold.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Paperlogy";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(Paperlogy-Bold.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Paperlogy";
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(Paperlogy-ExtraBold.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Paperlogy";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(Paperlogy-Black.woff2) format("woff2");
+}

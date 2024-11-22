@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "YOnepick";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(YOnepick.woff2) format("woff2");
+}
+@font-face {
+  font-family: "YOnepick";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(YOnepick-Bold.woff2) format("woff2");
+}

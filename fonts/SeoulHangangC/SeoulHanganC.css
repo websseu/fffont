@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "SeoulHangangC";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(SeoulHangangC-Light.woff2) format("woff2");
+}
+@font-face {
+  font-family: "SeoulHangangC";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(SeoulHangangC-Medium.woff2) format("woff2");
+}
+@font-face {
+  font-family: "SeoulHangangC";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(SeoulHangangC-Bold.woff2) format("woff2");
+}
+@font-face {
+  font-family: "SeoulHangangC";
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(SeoulHangangC-ExtraBold.woff2) format("woff2");
+}
+@font-face {
+  font-family: "SeoulHangangC";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(SeoulHangangC-Black) format("woff2");
+}

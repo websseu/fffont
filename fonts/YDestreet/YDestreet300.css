@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "YDestreet";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(YDestreet-Light.woff2) format("woff2");
+}

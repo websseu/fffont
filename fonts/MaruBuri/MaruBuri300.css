@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "MaruBuri";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(MaruBuri-Light.woff2) format("woff2");
+}

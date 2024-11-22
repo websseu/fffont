@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "SolmoeKimDaeGeon";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(SolmoeKimDaeGeon-Light.woff2) format("woff2");
+}
+@font-face {
+  font-family: "SolmoeKimDaeGeon";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(SolmoeKimDaeGeon-Medium.woff2) format("woff2");
+}

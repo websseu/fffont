@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Dongle";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(Dongle-Light.woff2) format("woff2");
+}

@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "BlackHanSans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(BlackHanSans.woff2) format("woff2");
+}
